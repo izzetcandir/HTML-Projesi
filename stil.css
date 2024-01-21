@@ -1,0 +1,148 @@
+#arka{
+    border-style: solid;
+    border-width: 0px;
+    width: 1100px;
+    min-height: 1200px;
+    background-color: rgb(60, 29, 2);
+    padding-top: 5px;
+}
+#bas{
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    background-color: whitesmoke;
+    width: 1075px;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+#cubuk{
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    width: 1075px;
+    height: 21px;
+    background-color: rgb(98, 98, 98);
+    margin-top:5px;
+    margin-left: 10px;
+    padding: 5px;
+    text-align: center;
+
+}
+ 
+.ders{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 10px;
+    font-size: 15px;
+    text-decoration: none;
+}
+a:hover{
+    color:rgb(143, 236, 5);
+    font-size: large;
+
+}
+
+#sol{
+    width: 200px;
+    min-height: 500px;
+    background-color: whitesmoke;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#anasag{
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    border-color: black;
+    min-height: 500px;
+    width: 865px;
+    background-color: azure;
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#künye{
+    border-style:solid;
+    border-width: 3px;
+    background-color: whitesmoke;
+    min-height: 320px;
+    width: 1075px;
+    float: inline-end;
+    margin-top:5px;
+    margin-right: 10px;
+}
+#bank{
+    position:relative;
+    left: 25px;
+    top:15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:red;
+}
+.sorular{
+    border-style: solid;
+    border-width: 0px;
+    background-color: whitesmoke;
+    width: 800px;
+    height: 350px;
+    margin:auto;
+    position: relative;
+    bottom: -20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+#sor1{
+    list-style-type:upper-latin;
+    font-size: large;
+}
+#calismahedefleri{
+    margin: auto;
+    float: left;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#zort{
+    background-color: antiquewhite;
+
+    height: 200px;
+    width: 1079px; 
+    padding: 10px;
+}
+th{
+    color:cornflowerblue;
+    font-size: larger;
+}
+td{
+    text-align: center;
+    border-width: 3px;
+}
+#yorum{
+    margin: 10px;
+    position: relative;
+    right:-12px;
+    font-size: larger;
+    border-width: 10px;
+    
+}
+input{
+    text-align: center;
+    font-size: larger;
+    float: right;
+    position: relative;
+    right: 30px;
+    margin: 3px;
+}
+#zor{
+    border-width: 0px;
+    padding: 10px;
+}
+
+
+
